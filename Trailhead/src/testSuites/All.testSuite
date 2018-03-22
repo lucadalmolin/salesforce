@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ApexTestSuite xmlns="http://soap.sforce.com/2006/04/metadata">
-    <testClassName>AccountHandlerTest</testClassName>
-    <testClassName>AccountProcessorTest</testClassName>
-    <testClassName>LeadProcessorTest</testClassName>
-    <testClassName>MyHelloWorldTest</testClassName>
-    <testClassName>TaskUtilTest</testClassName>
-    <testClassName>TemperatureConverterTest</testClassName>
-    <testClassName>TestAccountDeletion</testClassName>
-    <testClassName>TestRandomContactFactory</testClassName>
-    <testClassName>TestRestrictContactByName</testClassName>
-    <testClassName>TestVerifyDate</testClassName>
-    <testClassName>Test_SMSUtils</testClassName>
-    <testClassName>UpdateContactAddressesTest</testClassName>
+    <testClassName>LD2018.AccountHandlerTest</testClassName>
+    <testClassName>LD2018.AccountProcessorTest</testClassName>
+    <testClassName>LD2018.LeadProcessorTest</testClassName>
+    <testClassName>LD2018.MyHelloWorldTest</testClassName>
+    <testClassName>LD2018.TaskUtilTest</testClassName>
+    <testClassName>LD2018.TemperatureConverterTest</testClassName>
+    <testClassName>LD2018.TestAccountDeletion</testClassName>
+    <testClassName>LD2018.TestRandomContactFactory</testClassName>
+    <testClassName>LD2018.TestRestrictContactByName</testClassName>
+    <testClassName>LD2018.TestVerifyDate</testClassName>
+    <testClassName>LD2018.Test_SMSUtils</testClassName>
+    <testClassName>LD2018.UpdateContactAddressesTest</testClassName>
 </ApexTestSuite>
