@@ -13,7 +13,8 @@ public class AccountHandler {
             for(Database.Error err : result.getErrors()) {
                 System.debug('The following error description has occurred.');
                 System.debug(err.getStatusCode() + ': ' + err.getMessage());
-                System.debug('Contact fields that have affected this error: ' + err.getFields());
+
+                System.debug('Contact fields that affected this specific error: ' + err.getFields());
                 
          	}
 		}
