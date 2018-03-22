@@ -11,7 +11,7 @@ public class AccountHandler {
         	// Operation failed, so get all errors
         	ac = null;
             for(Database.Error err : result.getErrors()) {
-                System.debug('The following error has occurred.');
+                System.debug('Description of the following error that has occurred.');
                 System.debug(err.getStatusCode() + ': ' + err.getMessage());
                 System.debug('Contact fields that affected this error: ' + err.getFields());
                 
