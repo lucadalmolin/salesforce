@@ -6,6 +6,7 @@
     <testClassName>LD2018.AwesomeCalculatorTest</testClassName>
     <testClassName>LD2018.LeadProcessorTest</testClassName>
     <testClassName>LD2018.MyHelloWorldTest</testClassName>
+    <testClassName>LD2018.ParkLocatorTest</testClassName>
     <testClassName>LD2018.TaskUtilTest</testClassName>
     <testClassName>LD2018.TemperatureConverterTest</testClassName>
     <testClassName>LD2018.TestAccountDeletion</testClassName>
