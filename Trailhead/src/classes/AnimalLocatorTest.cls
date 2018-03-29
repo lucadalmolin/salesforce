@@ -8,6 +8,7 @@ private class AnimalLocatorTest {
 	    // from the class that implements HttpCalloutMock. 
 	    String actualValue = AnimalLocator.getAnimalNameById(2);
 	    String expectedValue = 'bear';
+	    System.assertEquals(expectedValue,actualValue);
 	}
 	
 }
